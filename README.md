@@ -17,4 +17,4 @@ Con este proyecto, estamos comprometidos a ofrecer una experiencia de usuario ex
 
 ![Diseño sin título](https://github.com/jArango82/Yolanda_Register_Program/assets/163220622/4ffc0f9a-bc78-41d9-9285-263c0a28d315)
 
---------------------------------------------------El logo se hizo y se animo en blender-----------------------------------------------
+-----------------------------------------El logo se hizo y se animo en blender-----------------------------------------------
