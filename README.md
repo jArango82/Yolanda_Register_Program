@@ -1,8 +1,8 @@
-Este proyecto se desarrolló con el propósito de apoyar y mejorar las operaciones de nuestro negocio familiar. Hemos creado una aplicación multifuncional que presenta una serie de interfaces intuitivas y eficientes.
+Este proyecto se ha desarrollado con el propósito de apoyar y mejorar las operaciones de nuestro negocio familiar. Hemos creado una aplicación multifuncional que presenta una serie de interfaces intuitivas y eficientes.
 
 La pantalla de bienvenida introduce a los usuarios a nuestra empresa, ofreciendo un resumen de lo que representamos y los servicios que proporcionamos. Esta introducción establece el tono para la experiencia del usuario y refleja nuestra identidad corporativa.
 
-En la sección de pagos, hemos implementado una función que permite la generación automática de facturas en formato PDF, facilitando así un proceso de pago claro y confiable para nuestros clientes.
+En la sección de pagos hemos implementado una función que permite la generación automática de facturas en formato PDF, facilitando así un proceso de pago claro y confiable para nuestros clientes.
 
 El módulo de Cuentas es igualmente importante, ya que permite la creación de documentos PDF que no solo actúan como cuentas de cobro, sino también como contratos formales, asegurando transparencia y profesionalismo en todas nuestras transacciones.
 
